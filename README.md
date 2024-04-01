@@ -1,0 +1,3 @@
+publicpath is commented:
+
+// publicPath
